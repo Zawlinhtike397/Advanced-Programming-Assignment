@@ -1,5 +1,5 @@
 # About
-My Assignment Flutter project for Advanced Programming subject at GUSTO university
+My Flutter Assignment project
 
 ## Basic function
 This is a school management system which can
